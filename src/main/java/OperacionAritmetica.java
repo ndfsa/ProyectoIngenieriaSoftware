@@ -1,10 +1,11 @@
 public class OperacionAritmetica {
     public static void main(String[]args){
-        System.out.println("division");
-        System.out.println(div(3,4));
-    }
-    public static double div(double x, double y){
-        return x/y;
-    }
 
+    }
+    public static double suma(double a, double b) { return a + b; }
+
+        public static double resta(double a, double b){
+        double c = a - b;
+        return c;
+        }
 }
