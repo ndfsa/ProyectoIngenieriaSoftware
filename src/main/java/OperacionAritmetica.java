@@ -19,7 +19,8 @@ public class OperacionAritmetica {
             double c = a - b;
             return c;
         }
-    }
-//division
     public static double div(double x, double y) {return x / y;}
+
+//division
+
 }
