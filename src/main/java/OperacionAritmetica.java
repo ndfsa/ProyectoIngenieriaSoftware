@@ -3,4 +3,9 @@ public class OperacionAritmetica {
 
     }
     public static double suma(double a, double b) { return a + b; }
+
+        public static double resta(double a, double b){
+        double c = a - b;
+        return c;
+        }
 }
