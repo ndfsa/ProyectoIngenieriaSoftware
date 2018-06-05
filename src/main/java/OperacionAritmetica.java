@@ -20,3 +20,6 @@ public class OperacionAritmetica {
             return c;
         }
     }
+//division
+    public static double div(double x, double y) {return x / y;}
+}
