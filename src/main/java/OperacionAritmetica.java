@@ -3,7 +3,7 @@ public class OperacionAritmetica {
 
     }
 
-        public double resta(double a,double b){
+        public static double resta(double a, double b){
         double c = a - b;
         return c;
         }
